@@ -159,14 +159,13 @@ This project is currently without an explicit license. Please see the [GitHub re
 
 ## 🙏 Acknowledgments
 
--   **Aditya Singh** ([aditya-singh-ux](https://github.com/aditya-singh-ux)) for initiating and developing Pravahh.
+-   **Team Name-The Data Syndicate(Aditya Singh,Anurag Dash,Pranab Ranjan Jena)** [The Data Syndicate](https://github.com/aditya-singh-ux).
 -   The **ML Hackathon** community for the inspiration and platform.
 -   The developers of **Python**, **Jupyter**, **Pandas**, and **NumPy** for their invaluable open-source contributions to the data science ecosystem.
 
 ## 📞 Support & Contact
 
 -   🐛 Issues: [GitHub Issues](https://github.com/aditya-singh-ux/Pravahh/issues)
-
 ---
 
 <div align="center">
